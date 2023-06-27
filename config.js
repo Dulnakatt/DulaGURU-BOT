@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Qᴜᴇᴇɴ ꜱʜᴀꜱʜɪ'
+global.botname = '💞⃞⃫⃯̥̥̥̥̥̥⃗🧚‍♀️Qᴜᴇᴇɴ ꜱʜᴀꜱʜɪ'
 global.premium = 'true'
 global.packname = 'SHASHI┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.author = 'ᴅᴜʟᴀ🧸🎲' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
